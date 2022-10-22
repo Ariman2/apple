@@ -1,0 +1,16 @@
+@font-face {
+font-family: 'Bold';
+src: url(../fonts/Montserrat/Montserrat-Bold.ttf)  format('truetype');
+}
+@font-face {
+    font-family: 'Medium';
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf) format('truetype');
+}
+@font-face {
+       font-family: 'Regular';
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf) format('truetype');
+ }
+@font-face {
+font-family: 'RegularO';
+src: url(../fonts/pro/ProstoOne-Regular.ttf)  format('truetype');
+}
